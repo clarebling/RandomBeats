@@ -1,0 +1,25 @@
+Random Beat Generator
+
+This is a code that generates random beats for users. I think about this code when working on side shuffle exercise with my physical theripy.
+The code is written in Python and can be run on any machine that has Python installed.
+
+How to use the code:
+
+Clone or download the repository to your local machine.
+
+Open a terminal or command prompt and navigate to the directory where the code is located.
+
+Install the required libraries by running the following command:
+
+pip install pyaudio
+
+Run the code by running the following command:
+
+python random_beats.py
+
+The code will prompt you to enter minimum and maximum duration of the time interval between each beat. Enter a valid integer value when when the questions ask and press Enter.
+The code would then generate beats wiith randomize interval duration between the min and max interval time you entered.
+
+You can listen to the generated beats until you stop the code by pressing CTRL + C.
+
+Note: This code is meant to be used for exercise when you need unpredictiable beats to help you practice your response time. Feel free to make improvements on the code! :)
